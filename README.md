@@ -11,6 +11,11 @@
 - 💞️ *I’m looking to collaborate on Anyone who is want to game with me*
 - 📫 *whenever you want to me question , **<sui@kakao.com>** email to me.*
 
+
+- 📈 my github stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=HSUII&show_icons=true&theme=solarized-light" alt="HSUII" />
+
 <!---
 HSUII/HSUII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
