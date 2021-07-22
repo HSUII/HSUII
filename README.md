@@ -1,3 +1,10 @@
+## :dolphin: WELCOME  GITHUB :dolphin:
+
+<img width="{80%}" src="{https://media.giphy.com/media/ZWcKE25oErn5HJ8aFF/giphy.gif}"/>
+
+
+
+
 - 👋 *Hi, I’m **SUI***
 - 👀 *I’m interested in Game    
       Especially, **Overwatch** is my favorite game.*
