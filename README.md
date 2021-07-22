@@ -2,7 +2,7 @@
 - 👀 *I’m interested in Game    
       Especially, **Overwatch** is my favorite game.*
 - 🌱 *I’m currently learning c language and Linux. And Tcp/Ip protocol*
-- 💞️ *I’m looking to collaborate on Anyone*
+- 💞️ *I’m looking to collaborate on Anyone who is want to game with me *
 - 📫 *whenever you want to me question , **<sui@kakao.com>** email to me.*
 
 <!---
