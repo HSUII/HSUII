@@ -1,7 +1,6 @@
-## :dolphin: WELCOME  GITHUB :dolphin:
+## :dolphin: WELCOME SUI GITHUB :dolphin:
 
-<img width="80%" src="https://media.giphy.com/media/ZWcKE25oErn5HJ8aFF/giphy.gif"/> 
-
+<img width="230" src="https://media.giphy.com/media/ZWcKE25oErn5HJ8aFF/giphy.gif" />
 
 
 
