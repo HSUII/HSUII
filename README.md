@@ -16,6 +16,8 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=HSUII&show_icons=true&theme=solarized-light" alt="HSUII" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSUII&layout=compact)](https://github.com/HSUII/github-readme-stats)
+
 <!---
 HSUII/HSUII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
