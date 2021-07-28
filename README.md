@@ -9,7 +9,7 @@
       Especially, **[Overwatch](https://kr.shop.battle.net/ko-kr/family/overwatch)** is my favorite game.*
 - 🌱 *I’m currently learning c language and Linux. Also Tcp/Ip protocol*
 - 💞️ *I’m looking to collaborate on Anyone who is want to game with me*
-- 📫 *whenever you want to me CONNECT , **<sui@kakao.com>** email to me.*
+- 📫 *whenever you want to CONNECT me , **<sui@kakao.com>** email to me.*
 
 
 - 📈 my github stats
