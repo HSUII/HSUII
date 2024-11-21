@@ -7,7 +7,8 @@
 - 👋 *Hi, I’m **SUI***
 - 👀 *I love relaxing at home and I love Games     
       Especially, **[Overwatch](https://kr.shop.battle.net/ko-kr/family/overwatch)** is my favorite game.*
-- 🌱 *I’m currently learning c language and Linux. Also Tcp/Ip protocol*
+- 🌱 *I learned  c language and Linux and Tcp/Ip protocol*
+- 🌱 *I'm learning java and python these days*
 - 💞️ *I’m looking to collaborate on Anyone who is want to game with me*
 - 📫 *whenever you want to CONNECT me , **<sui@kakao.com>** email to me.*
 
